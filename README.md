@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, je suis Gora Dia WADE</h1>
+<h1 align="center">Salut 👋,my name is Gora Dia WADE</h1>
 <h3 align="center">développeur full stack javascript</h3>
 
 ### Languages and Tools:
