@@ -1,70 +1,55 @@
-<h1 align="center">Hi 👋, I'm Gora Dia Wade</h1>
-<h3 align="center">Full Stack JavaScript Developer • AI Enthusiast • Building Modern Digital Experiences</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wade1508&label=Profile%20views&color=0e75b6&style=flat" alt="wade1508" />
-</p>
+<div align="center">
+  <h1>Hi, I'm Gora Dia Wade 👋</h1>
+  <h3>Full Stack JavaScript Developer • AI Enthusiast • Building Modern Digital Experiences</h3>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=wade1508&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  </p>
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack JavaScript Developer
-- 🤖 Passionate about AI, automation & scalable systems
-- 🌍 Based in Canada
-- 📚 Currently learning advanced backend architecture & AI integration
-- 🚀 Building modern web applications and digital solutions
-- ⚡ Goal: Create impactful tech products used worldwide
+Je suis un **Développeur Full Stack JavaScript**, spécialisé dans la création d'applications web modernes, l'automatisation et l'intégration des technologies d'Intelligence Artificielle. Passionné par l'écosystème de l'IA et l'optimisation des flux de travail, je me concentre sur le développement de solutions logiques, performantes et scalables pour concevoir les produits digitaux de demain.
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/gora-dia-wade-324575253/" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-Gora%20Dia%20Wade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:goradia1508@gmail.com">
-<img align="center" src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+- 💻 **Core Stack** : JavaScript, React, Next.js, Node.js
+- 🤖 **IA & Productivité** : Intégration de LLMs, exploitation d'outils d'IA avancés et automatisation intelligente
+- 📚 **Focus & Pratique** : Conception et mise en place de projets IA concrets pour maîtriser le développement d'agents autonomes et l'ingénierie de prompts
+- ⚡ **Objectif** : Concevoir et propulser des applications puissantes pilotées par l'IA à fort impact mondial
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🖥️ Frontend
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,tailwind" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,tailwind" alt="Frontend Tech" />
+  </a>
 </p>
 
-### Backend
+### ⚙️ Backend & Databases
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase" alt="Backend Tech" />
+  </a>
 </p>
 
-### Tools & Technologies
+### 🤖 AI Tools & Frameworks
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman" />
+  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude%20(Anthropic)-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM" />
+  <img src="https://img.shields.io/badge/v0%20(Vercel)-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wade1508&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wade1508&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=wade1508&theme=tokyonight&hide_border=true" />
+### 🔧 Tools & DevOps
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma" alt="Tools" />
+  </a>
 </p>
 
 ---
@@ -73,7 +58,9 @@
 
 ```javascript
 const gora = {
-  code: ["JavaScript", "React", "Node.js"],
-  passions: ["AI", "Automation", "Business", "Startups"],
-  currentGoal: "Build powerful AI-driven products",
+  code: ["JavaScript", "React", "Next.js", "Node.js"],
+  aiTools: ["Gemini", "ChatGPT", "Claude", "NotebookLM", "v0", "LangChain"],
+  learningMethod: "Building hands-on AI projects to master workflows & integrations",
+  passions: ["Artificial Intelligence", "Automation", "Startups"],
+  challenge: "Building powerful AI-driven products with clean and robust architectures"
 };
