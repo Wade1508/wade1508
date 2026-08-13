@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Gora Dia Wade 👋</h1>
-  <h3>Full Stack JavaScript Developer • AI Enthusiast • Building Modern Digital Experiences</h3>
+  <h3>Full Stack JavaScript Developer • AI & Automation Enthusiast • Building Modern Digital Experiences</h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=wade1508&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
   </p>
@@ -10,18 +10,25 @@
 
 ## 🚀 About Me
 
-Je suis un **Développeur Full Stack JavaScript**, spécialisé dans la création d'applications web modernes, l'automatisation et l'intégration des technologies d'Intelligence Artificielle. Passionné par l'écosystème de l'IA et l'optimisation des flux de travail, je me concentre sur le développement de solutions logiques, performantes et scalables pour concevoir les produits digitaux de demain.
+Je suis un **Développeur Full Stack JavaScript** spécialisé dans la création d'applications web modernes, l'automatisation et l'intégration de technologies d'Intelligence Artificielle.
 
-- 💻 **Core Stack** : JavaScript, React, Next.js, Node.js
-- 🤖 **IA & Productivité** : Intégration de LLMs, exploitation d'outils d'IA avancés et automatisation intelligente
-- 📚 **Focus & Pratique** : Conception et mise en place de projets IA concrets pour maîtriser le développement d'agents autonomes et l'ingénierie de prompts
-- ⚡ **Objectif** : Concevoir et propulser des applications puissantes pilotées par l'IA à fort impact mondial
+Je développe des workflows automatisés avec **n8n**, connecte différents services et APIs, et expérimente la création d'agents IA capables d'analyser des données et d'exécuter des tâches automatiquement.
+
+* 💻 **Core Stack** : JavaScript, React, Next.js, Node.js
+* 🤖 **IA** : ChatGPT, Gemini, Claude, OpenRouter, AI Agents, LangChain
+* ⚙️ **Automation** : n8n, workflows automatisés, intégration d'APIs, traitement de données
+* 🔎 **Data & Web Automation** : Apify, Google Search Scraper, extraction et traitement de données
+* 📊 **Data Processing** : filtrage, traitement par lots, Loop Over Items, structuration des données
+* 🗄️ **Data Storage** : Google Sheets, MySQL, MongoDB, Firebase
+* 📚 **Focus** : Création de workflows IA, agents IA, automatisations et intégrations entre différents services
+* ⚡ **Objectif** : Concevoir des produits digitaux combinant développement logiciel, IA et automatisation
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🖥️ Frontend
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,tailwind" alt="Frontend Tech" />
@@ -29,23 +36,27 @@ Je suis un **Développeur Full Stack JavaScript**, spécialisé dans la créatio
 </p>
 
 ### ⚙️ Backend & Databases
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase" alt="Backend Tech" />
   </a>
 </p>
 
-### 🤖 AI Tools & Frameworks
+### 🤖 AI & Automation
+
 <p align="left">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Apify-00AEEF?style=for-the-badge&logo=apify&logoColor=white" alt="Apify" />
+  <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logoColor=white" alt="OpenRouter" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Claude%20(Anthropic)-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM" />
-  <img src="https://img.shields.io/badge/v0%20(Vercel)-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
 </p>
 
 ### 🔧 Tools & DevOps
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma" alt="Tools" />
@@ -59,8 +70,45 @@ Je suis un **Développeur Full Stack JavaScript**, spécialisé dans la créatio
 ```javascript
 const gora = {
   code: ["JavaScript", "React", "Next.js", "Node.js"],
-  aiTools: ["Gemini", "ChatGPT", "Claude", "NotebookLM", "v0", "LangChain"],
-  learningMethod: "Building hands-on AI projects to master workflows & integrations",
-  passions: ["Artificial Intelligence", "Automation", "Startups"],
-  challenge: "Building powerful AI-driven products with clean and robust architectures"
+  
+  aiTools: [
+    "ChatGPT",
+    "Gemini",
+    "Claude",
+    "OpenRouter",
+    "LangChain"
+  ],
+
+  automation: [
+    "n8n",
+    "Apify",
+    "AI Agents",
+    "API Integrations",
+    "Automated Workflows"
+  ],
+
+  n8nSkills: [
+    "Workflow Automation",
+    "AI Agent Workflows",
+    "Loop Over Items",
+    "Data Filtering",
+    "API Integration",
+    "Apify Integration",
+    "Google Sheets Integration",
+    "Email Automation"
+  ],
+
+  learningMethod:
+    "Building hands-on AI and automation projects",
+
+  passions: [
+    "Artificial Intelligence",
+    "Automation",
+    "Startups",
+    "Software Development"
+  ],
+
+  challenge:
+    "Building reliable AI-driven workflows and digital products"
 };
+```
